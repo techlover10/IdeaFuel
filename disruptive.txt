@@ -1,0 +1,31 @@
+cloud
+crypto
+IOT
+mobile
+wearables
+sensors
+data
+ML
+VR
+AR
+blockchain
+drones
+robotics
+SAAS
+distributed computing
+distributed storage
+APIs
+real-time
+computing
+automation
+maker
+on-demand customization
+NFC
+beacons
+collaborative
+filtering
+real-time
+streaming
+voice
+CV
+OCR
